@@ -1,5 +1,5 @@
-<h1 align="center">Hello World ! 👋 I'm Yuhiaht(Duong Thai Huy)</h1>
-<h3 align="center">A tiny self-taught web developer on his journey to conquer the full-stack position.</h3>
+<h1 align="center">Hello World ! 👋 I'm Duong Thai Huy</h1>
+<h3 align="center">SIUUUUUUUUUUUUUUUUUUUUUU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketsushounen790&label=Profile%20views&color=0e75b6&style=flat" alt="sanketsushounen790" /> </p>
 
