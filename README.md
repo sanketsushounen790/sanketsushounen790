@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketsushounen790&label=Profile%20views&color=0e75b6&style=flat" alt="sanketsushounen790" /> </p>
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketsushounen790&show_icons=true&locale=en&layout=compact&theme=radical" alt="sanketsushounen790" /></p>
-<p><img align="right" alt="Coding" width="400px" heigth="300px" src="https://nextshark.com/wp-content/uploads/2018/01/007.gif" /></p>
+<p><img align="right" alt="Coding" width="400" heigth="300" src="https://nextshark.com/wp-content/uploads/2018/01/007.gif" /></p>
 
 <h3 align="left">About me:</h3>
 
@@ -30,7 +30,7 @@
 
 ![Yuhiaht's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanketsushounen790&hide_border=true&theme=redical)
 
-<p><img align="right" alt="Coding" width="320px" heigth="410px" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" /></p>
+<p><img align="right" alt="Coding" width="320" heigth="410" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketsushounen790&show_icons=true&locale=en&theme=radical" alt="sanketsushounen790" /></p>
 
