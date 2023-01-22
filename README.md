@@ -58,7 +58,7 @@
 
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketsushounen790&show_icons=true&locale=en&layout=compact&theme=radical" alt="sanketsushounen790" /></p>
 
-![Yuhiaht's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanketsushounen790&hide_border=true&theme=redical)
+![Yuhiaht's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanketsushounen790&hide_border=true&theme=redical)
 
 <p><img align="right" alt="Coding" width="320" src="./assets/codingguy.gif" /></p>
 
