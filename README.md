@@ -21,7 +21,7 @@
 
 - 💻 I sometimes write articles on [My personal blog](https://yuhiahtblog.netlify.app/)
 
-- 📫 My email **thaihuyduong790@gmail.com**
+- 📫 My email **@gmail.com**
 
 <p><img align="right" alt="side-gif" width="300" src="./assets/futuristic.gif" /></p>
 
