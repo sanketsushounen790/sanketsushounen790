@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1EF707&background=0A150100&center=true&vCenter=true&width=1100&lines=console.log(%22Hello+World!%22)+"></div>
 
-<h1 align="center">Hi everyone! 👋 My name is Duong Thai Huy</h1>
+<h1 align="center">Hi everyone! 👋 My name is Andy</h1>
 <h3 align="center">I love Coding 👨💻 and Coffee ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketsushounen790&label=Profile%20views&color=0e75b6&style=flat" alt="sanketsushounen790" /> </p>
