@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketsushounen790&label=Profile%20views&color=0e75b6&style=flat" alt="sanketsushounen790" /> </p>
 
-
-
 [![Willow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanketsushounen790&custom_title=Willow's%20Activity%20Graph&theme=rogue)](https://github.com/sanketsushounen790/github-readme-activity-graph)
 
-<img align="right" height="500px" src="./assets/codingguy.gif" alt="cover" />
+<img align="right" height="300px" src="./assets/codingguy.gif" alt="cover" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanketsushounen790&show_icons=true&locale=en&theme=radical" alt="sanketsushounen790" /></p>
 
