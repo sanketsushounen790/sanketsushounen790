@@ -10,9 +10,11 @@
 
 [![Willow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanketsushounen790&custom_title=Willow's%20Activity%20Graph&theme=rogue)](https://github.com/sanketsushounen790/github-readme-activity-graph)
 
+<img align="right" height="500px" src="./assets/codingguy.gif" alt="cover" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanketsushounen790&show_icons=true&locale=en&theme=radical" alt="sanketsushounen790" /></p>
 
-<a align="right" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-navy.vercel.app?user=sanketsushounen790&theme=radical" alt="GitHub Streak" /></a>
+<a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-navy.vercel.app?user=sanketsushounen790&theme=radical" alt="GitHub Streak" /></a>
 
 
 
