@@ -1,7 +1,7 @@
-<img width="100%" height = "500px" src="./assets/ship_rain.gif" alt="cover" />
+<img width="100%" height = "450px" src="./assets/ship_rain.gif" alt="cover" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=1EF707&background=0A150100&center=true&vCenter=true&width=1100&lines=console.log(%22Hello+World!%22)+"></div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=15F731&background=FF821900&multiline=true&width=700&height=100&lines=%5B21%3A09%3A01%5D+%3E+Access+granted.;%5B21%3A09%3A02%5D+%3E+Injecting+code+into+reality...;%5B21%3A09%3A03%5D+%3E+System+compromised." alt="Typing SVG" /></a>
 <h2 align="center"></h2>
 
 <div align="left">
