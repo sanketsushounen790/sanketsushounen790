@@ -1,4 +1,4 @@
-<img width="100%" height = "300px" src="./assets/mastermind.gif" alt="cover" />
+<img width="100%" height = "500px" src="./assets/ship_rain.gif" alt="cover" />
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1EF707&background=0A150100&center=true&vCenter=true&width=1100&lines=console.log(%22Hello+World!%22)+"></div>
 
@@ -12,7 +12,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/316s33hyo3kh4b3of5bptgat74qq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316s33hyo3kh4b3of5bptgat74qq&count=10" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316s33hyo3kh4b3of5bptgat74qq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
