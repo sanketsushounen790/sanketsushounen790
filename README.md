@@ -16,15 +16,15 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-       <h3>Vibing</h3>
+       <p>Vibe Coding Playlist</p>
   <a href="https://open.spotify.com/user/316s33hyo3kh4b3of5bptgat74qq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316s33hyo3kh4b3of5bptgat74qq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <div align="center">
-     <img width="100%" height = "450px" src="./assets/cosyroom.gif" alt="cover" />
+     <img width="100%" height = "700px" src="./assets/boy_listen_music.jpg" alt="cover" />
        </div>
     </td>
   </tr>
