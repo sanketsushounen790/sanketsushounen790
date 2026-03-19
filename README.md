@@ -10,11 +10,25 @@
 
 ###
 
-<div align="left">
+
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+       <h3>Vibing</h3>
   <a href="https://open.spotify.com/user/316s33hyo3kh4b3of5bptgat74qq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316s33hyo3kh4b3of5bptgat74qq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+     <img width="100%" height = "450px" src="./assets/cosyroom.gif" alt="cover" />
+       </div>
+    </td>
+  </tr>
+</table>
 
 ###
 
